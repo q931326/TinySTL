@@ -15,8 +15,8 @@ namespace tinystl {
 		typedef		const value_type* const_pointer;
 		typedef		value_type& reference;
 		typedef		const value_type* const_reference;
-		typedef		size_t	size_type;		//size_t  意思是size的大小。
-		typedef		ptrdiff_t	difference_type;	//ptrdiff_t 意思是两个指针的大小差距。
+		typedef		size_t	size_type;		
+		typedef		ptrdiff_t	difference_type;	
 		typedef		value_type* iterator;
 		typedef		const value_type* const_iterator;
 		typedef		simple_alloc<value_type, Alloc>	data_allocator;
