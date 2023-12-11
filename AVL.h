@@ -1,10 +1,10 @@
 #ifndef _AVL_TREE_H_
 #define _AVL_TREE_H_
 
-#include "Allocator.h"
-#include "Iterator.h"
-#include "Stack.h"
-#include "String.h"
+#include "allocator.h"
+#include "iterator.h"
+#include "stack.h"
+#include "string.h"
 
 #include <set>
 
