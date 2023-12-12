@@ -1,7 +1,7 @@
 #ifndef _AVL_TREE_H_
 #define _AVL_TREE_H_
 
-#include "allocator.h"
+#include "allocate.h"
 #include "iterator.h"
 #include "stack.h"
 #include "string.h"
